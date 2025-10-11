@@ -1,4 +1,4 @@
-# sih_prototype
+# G.One
 
 A new Flutter project.
 
